@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-c7e4717f2f89ed2df56fffc245a2274840b7504b.jar" />
+    </item>
+    <item
+        jar="/Applications/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-824d6ed637d9ba577e046e4ae5917d53001f477a.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/notes/snackbar-lib/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="544575e8c746b07c7c4cfdb0950708ea1d543be1">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-3627741c463b7aa14db969e5fd27dbe3478f5d3c.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-dcbbaaeb5abb3b702d74114a3fc910316b480307.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-8faf028ecdf96a0d15f5cfd2cb60c98498fa22c8.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/notes/odoo-rpc-v2/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bc4b9d67a5f2ed0b2392f0b3bf268e31b41782a5">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-5d644bb4665ecdf8705e521bd9b824aa842cc858.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-9f13f95f126e9722e26c65bf06b1751cb16836b9.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-f077b113e3c0f9bbaa926c798b5633d44502ba49.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-d79fdd06a80e9c10485d6bfdf14b55e009dbaeb3.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-3143423e2cff800015056b69411efac6ffb6a81c.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-9e4050553f6619ef780fa8360b007e085892c524.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-6c88aabec8c7300862f046431eca8aa30c0537e9.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-fc77e092b188588f50d8abfca85123f74c4ab098.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-130548a954efec6ac1cb4a3d014b0dd8ca4fb9ee.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-322713c80678513f91ce2a61ade074042c62083e.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-45fa3b83ffeebcbe98a046369a5dd1db73b9446a.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/libs/swipe_library.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="56650729f9650e4d5d59267ddb840dfc3aaf4ff9">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/swipe_library-75ed8ba40b071f54fc5abbda1aa9cb3c4034b33c.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-9c5906094d4e27e0dc9fca86fe9918520e193a75.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-ecbaa68161bb22d8852e0f435056ceef3fe4f140.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-aefc45880be3146282550970a68c2ea0acec6358.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-08cde2c62991e5bc723a4649666232d38357970b.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-f2b03b830a234f7998992fed651d4fbae91748cf.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-d6e5428acf62088159f7dac98184ab62a070b958.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-dc7d53657a7da7892b7ede9135e9f0ecd18513ff.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/notes/intro-slider-lib/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a61a34543b04e1470c1d7a0b1cd455d91ef985da">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-f174fede7d6dce04fa389332deeda0e46d9e3d52.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/notes/bottom-sheet-lib/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e1036f71cfd78f6c55cc27f206478c83830f76d0">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-410208e0f7d77927f7ee0f55e565283f1564249c.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-fac3d3447bcb92eaa00b6581af21af55fa159b98.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/notes/odoo-rpc-v2/unspecified/libs/core.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f3c7e89b5124329cddba83bcf7c26c1c636c16b8">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/core-e65758bf3a41639cb69959832a5f91c6c10a63c9.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/notes/parallax-effect-lib/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d5d51df78c3099a605c78513a2868cf87fae2849">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-a5f494f4c55a52caa63dbf70fc37bfa3debee67d.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-fb2f012ed85201403e2fa853db57e06b234f2341.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/whn13/Documents/workspace/notes/app/build/intermediates/pre-dexed/debug/classes-5eae937a652c9018408d3e0b4c8997fdb6389a5e.jar" />
+    </item>
+
+</items>
